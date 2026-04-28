@@ -17,12 +17,19 @@ Ensures all features have mean = 0 and standard deviation = 1
 The following five classification algorithms were implemented:
 
 Logistic Regression
+
 Decision Tree Classifier
+
 Random Forest Classifier
+
 Support Vector Machine (SVM)
+
 k-Nearest Neighbors (k-NN)
+
 Model Performance (Accuracy)
+
 Model	Accuracy (approx.)
+
 Logistic Regression	97% – 99%
 
 Decision Tree	92% – 95%
