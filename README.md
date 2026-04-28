@@ -1,4 +1,4 @@
-Project Overview
+# Project Overview
 
 This project focuses on building and comparing multiple machine learning models to classify breast cancer tumors as malignant or benign using the Breast Cancer dataset from sklearn.
 The goal is to evaluate different classification algorithms and identify which model performs best for this dataset.
@@ -9,12 +9,12 @@ Classes:
 1 → Benign
 Features:
 30 numerical features (e.g., radius, texture, area, smoothness)
-Preprocessing Steps
+## Preprocessing Steps
 - Checked for missing values (none found)
 - Applied feature scaling using StandardScaler
 Ensures all features have mean = 0 and standard deviation = 1
 
-The following five classification algorithms were implemented:
+## The following five classification algorithms were implemented:
 
 Logistic Regression
 
@@ -26,7 +26,7 @@ Support Vector Machine (SVM)
 
 k-Nearest Neighbors (k-NN)
 
-Model Performance (Accuracy)
+## Model Performance (Accuracy)
 
 Model	Accuracy (approx.)
 
@@ -40,6 +40,8 @@ SVM	97% – 99%
 
 k-NN	95% – 97%
 
-Results
+## Results
+
 Best Performing Models: SVM and Random Forest
+
 Lowest Performing Model: Decision Tree
