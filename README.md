@@ -24,10 +24,15 @@ k-Nearest Neighbors (k-NN)
 Model Performance (Accuracy)
 Model	Accuracy (approx.)
 Logistic Regression	97% – 99%
+
 Decision Tree	92% – 95%
+
 Random Forest	96% – 99%
+
 SVM	97% – 99%
+
 k-NN	95% – 97%
+
 Results
 Best Performing Models: SVM and Random Forest
 Lowest Performing Model: Decision Tree
